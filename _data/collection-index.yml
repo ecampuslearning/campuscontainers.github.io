@@ -639,10 +639,15 @@
   repository: https://github.com/mcollier/logic-app-dev-container-template
   ociReference: ghcr.io/mcollier/logic-app-dev-container-template
 - name: Additional Dev Container Features by prulloac
-  maintainer: prulloac
+  maintainer: Pablo Ulloa
   contact: https://github.com/prulloac/devcontainer-features/issues
   repository: https://github.com/prulloac/devcontainer-features
   ociReference: ghcr.io/prulloac/devcontainer-features
+- name: Additional Dev Container Templates by prulloac
+  maintainer: Pablo Ulloa
+  contact: https://github.com/prulloac/devcontainer-templates/issues
+  repository: https://github.com/prulloac/devcontainer-templates
+  ociReference: ghcr.io/prulloac/devcontainer-templates
 - name: Additional Dev Container Features by LumenPink
   maintainer: lumenpink
   contact: https://github.com/lumenpink/devcontainer-features/issues
@@ -708,3 +713,28 @@
   contact: https://github.com/dlouwers/devcontainer-features/issues
   repository: https://github.com/dlouwers/devcontainer-features
   ociReference: ghcr.io/dlouwers/devcontainer-features
+- name: Dev Container Features by kreemer
+  maintainer: kreemer
+  contact: https://github.com/kreemer/features/issues
+  repository: https://github.com/kreemer/features
+  ociReference: ghcr.io/kreemer/features
+- name: Dev Container Features by Vero
+  maintainer: Vero
+  contact: https://github.com/veronoicc/devcontainer-features/issues
+  repository: https://github.com/veronoicc/devcontainer-features
+  ociReference: ghcr.io/veronoicc/devcontainer-features
+- name: Dev Container Templates by joshuanianji
+  maintainer: joshuanianji
+  contact: https://github.com/joshuanianji/devcontainer-templates/issues
+  repository: https://github.com/joshuanianji/devcontainer-templates
+  ociReference: ghcr.io/joshuanianji/devcontainer-templates
+- name: OpenCodeCo Dev Containers goodies
+  maintainer: leocavalcante
+  contact: https://github.com/orgs/opencodeco/discussions
+  repository: https://github.com/opencodeco/devcontainers
+  ociReference: ghcr.io/opencodeco/devcontainers
+- name: Dev Container Features by Valentin
+  maintainer: Valentin Heiligers
+  contact: https://github.com/va-h/devcontainers-features/issues
+  repository: https://github.com/va-h/devcontainers-features
+  ociReference: ghcr.io/va-h/devcontainers-features
